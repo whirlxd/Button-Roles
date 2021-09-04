@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: GPL 3" src="https://img.shields.io/badge/License-GPL 3-yellow.svg" />
+    <img alt="License: GPL 3" src="https://img.shields.io/badge/License-Gnu 2-yellow.svg" />
   </a>
 
 </p>
@@ -26,7 +26,7 @@ npm run main
 👤 **Whirl**
 
 - Website: whirl.codes
-- Twitter: [@Whirl\_@1](https://twitter.com/Whirl_@1)
+- Twitter: [@Whirl\_21](https://twitter.com/Whirl_21)
 - Github: [@Whirl21](https://github.com/Whirl21)
 
 ## Show your support
